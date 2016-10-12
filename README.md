@@ -163,4 +163,55 @@ back with:
 ```
 
 ### Tasks 10
+
+At the bash prompt, create a variable MYVAR with the following:
+
+
+```less
+MYVAR="This is the main shell. I am not affected by variables created in
+subshells."
+```
+
+We then can check our newly defined varaible with the `echo` command.
+
+
+```bash
+echo $MYVAR
+```
+
+Now we create a shell script with the following contents:
+
+```bash
+#!/bin/bash
+
+MYVAR="This is a subshell. I will be destroyed after this script runs. Please
+help me!"
+
+echo $MYVAR
+echo "Back to the prompt in the main shell now."
+```
+
+We can run the script in the following way:
+
+        bash myscript.sh
+
+Which produces:
+
+```less
+This is a subshell. I will be destroyed after this script runs. Please help me!
+Back to the prompt in the main shell now.
+```
+
+And then if we check our other variable at the command line...
+```bash
+echo $MYVAR
+
+This is the main shell. I am not affected by variables created in subshells.
+```
+
+This brings the idea of global and local variables. Therefore, one can define a
+local variable in a file that has the same name but is different from the global
+variable that is defined.
+
+
 ### Tasks 11
