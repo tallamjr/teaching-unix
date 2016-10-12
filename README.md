@@ -14,15 +14,16 @@ Written with the `C` language.
 
 What does this tell you about the way the shell works?
 
-    - This shows that each shell has it's own set of variables and can work
-      independently from the other shells.
+    This shows that each shell has it's own set of variables and can work
+    independently from the other shells.
 
 ### Tasks 1
 
-**Print-Working-Directory**
+**Print-Working-Directory** <br>
 `pwd`
 
 **Make-Directory** called *unixstuff*
+
 `mkdir unixstuff`
 
 Go into that directory and create another directory called *archive*, so,
