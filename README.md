@@ -213,5 +213,33 @@ This brings the idea of global and local variables. Therefore, one can define a
 local variable in a file that has the same name but is different from the global
 variable that is defined.
 
-
 ### Tasks 11
+
+Open a file called `hid.sh`.
+
+        vim hid.sh
+
+Enter this inside:
+
+        #!/usr/bin/env bash
+
+        ls -l .*
+
+Save file and change permissions so that it is executable:
+
+        chmod u+x hid.sh
+
+When this is done, the file can now be run by typing `./hid.sh` at the command
+line.
+
+(The `./` is because the file is not in the current ***path***)
+
+The output of the about file will list all *hidden* files that reside in the
+current directory.
+
+A more useful script could build upon some of the previous tasks.
+
+
+
+
+
