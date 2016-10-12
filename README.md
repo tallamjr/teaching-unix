@@ -19,7 +19,8 @@ What does this tell you about the way the shell works?
 
 ### Tasks 1
 
-**Print-Working-Directory** <br>
+**Print-Working-Directory**
+
 `pwd`
 
 **Make-Directory** called *unixstuff*
@@ -27,5 +28,10 @@ What does this tell you about the way the shell works?
 `mkdir unixstuff`
 
 Go into that directory and create another directory called *archive*, so,
-**Change-Directory** to the recently create directory called *unixstuff* and
-**Make-Directory** called *archive*
+**Change-Directory** to the recently create directory called *unixstuff*
+
+`cd unixstuff`
+
+and **Make-Directory** called *archive*
+
+`mkdir archive`
