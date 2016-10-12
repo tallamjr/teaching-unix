@@ -1,0 +1,311 @@
+Science
+
+Etymology
+
+The word science comes through the Old French, and is derived from the Latin 
+word scientia for knowledge, which in turn comes from scio 'I know' The Indo-
+European root means to discern or to separate, akin to Sanskrit chyati, he cuts 
+off, Greek schizein, to split, Latin scindere, to split  From the Middle Ages to 
+the Enlightenment, science or scientia meant any systematic recorded knowledge  
+Science therefore had the same sort of very broad meaning that philosophy had at 
+that time In other languages, including French, Spanish, Portuguese, and Italian, 
+the word corresponding to science also carries this meaning 
+
+From classical times until the advent of the modern era, "philosophy" was 
+roughly divided into natural philosophy and moral philosophy In the 1800s, the 
+term natural philosophy gradually gave way to the term natural science Natural 
+science was gradually specialized to its current domain, which typically 
+includes the physical sciences and biological sciences The social sciences, 
+inheriting portions of the realm of moral philosophy, are currently also 
+included under the auspices of science to the extent that these disciplines use 
+empirical methods As currently understood, moral philosophy still retains the 
+study of ethics, regarded as a branch of philosophy 
+
+Today, the primary meaning of "science" is generally limited to empirical study 
+involving use of the scientific method 
+
+
+Scientific method
+
+ 
+The Bohr model of the atom, like many ideas in the history of science, was at 
+first prompted by and later partially disproved by experiment The scientific 
+method seeks to explain the complexities of nature in a replicable way, and to 
+use these explanations to make useful predictions It provides an objective 
+process to find solutions to problems in a number of scientific and 
+technological fields Often scientists have a preference for one outcome over 
+another, and scientists are conscientious that it is important that this 
+preference does not bias their interpretation A strict following of the 
+scientific method attempts to minimize the influence of a scientist's bias on 
+the outcome of an experiment This can be achieved by correct experimental design, 
+and a thorough peer review of the experimental results as well as conclusions of 
+a study 
+
+Scientists use models to refer to a description or depiction of something, 
+specifically one which can be used to make predictions that can be tested by 
+experiment or observation A hypothesis is a contention that has been neither 
+well supported nor yet ruled out by experiment A theory, in the context of 
+science, is a logically self-consistent model or framework for describing the 
+behavior of certain natural phenomena A theory typically describes the behavior 
+of much broader sets of phenomena than a hypothesis—commonly, a large number of 
+hypotheses may be logically bound together by a single theory A physical law or 
+law of nature is a scientific generalization based on a sufficiently large 
+number of empirical observations that it is taken as fully verified 
+
+Scientists never claim absolute knowledge of nature or the behavior of the 
+subject of the field of study Unlike a mathematical proof, a scientific theory 
+is empirical, and is always open to falsification, if new evidence is presented 
+Even the most basic and fundamental theories may turn out to be imperfect if new 
+observations are inconsistent with them Critical to this process is making every 
+relevant aspect of research publicly available, which permits peer review of 
+published results, and also allows ongoing review and repeating of experiments 
+and observations by multiple researchers operating independently of one another 
+Only by fulfilling these expectations can it be determined how reliable the 
+experimental results are for potential use by others 
+
+Isaac Newton's Newtonian law of gravitation is a famous example of an 
+established law that was later found not to be universal—it does not hold in 
+experiments involving motion at speeds close to the speed of light or in close 
+proximity of strong gravitational fields Outside these conditions, Newton's Laws 
+remain an excellent model of motion and gravity Since general relativity 
+accounts for all the same phenomena that Newton's Laws do and more, general 
+relativity is now regarded as a more comprehensive theory 
+
+
+Philosophy of science
+
+The philosophy of science seeks to understand the nature and justification of 
+scientific knowledge and its ethical implications It has proven difficult to 
+provide a definitive account of the scientific method that can decisively serve 
+to distinguish science from non-science Thus there are legitimate arguments 
+about exactly where the borders are There is nonetheless a set of core precepts 
+that have broad consensus among published philosophers of science and within the 
+scientific community at large (see: Problem of demarcation)
+
+Science is reasoned-based analysis of sensation upon our awareness As such, the 
+scientific method cannot deduce anything about the realm of reality that is 
+beyond what is observable by existing or theoretical means When a manifestation 
+of our reality previously considered supernatural is understood in the terms of 
+causes and consequences, it acquires a scientific explanation 
+
+Resting on reason and logic, along with other guidelines such as parsimony, 
+scientific theories are formulated and repeatedly tested by analyzing how the 
+collected evidence compares to the theory Some of the findings of science can be 
+very counter-intuitive Atomic theory, for example, implies that a granite 
+boulder which appears a heavy, hard, solid, grey object is actually a 
+combination of subatomic particles with none of these properties, moving very 
+rapidly in space where the mass is concentrated in a very small fraction of the 
+total volume Many of humanity's preconceived notions about the workings of the 
+universe have been challenged by new scientific discoveries Quantum mechanics, 
+particularly, examines phenomena that seem to defy our most basic postulates 
+about causality and fundamental understanding of the world around us Science is 
+the branch of knowledge dealing with people and the understanding we have of our 
+environment and how it works 
+
+There are different schools of thought in the philosophy of scientific method 
+Methodological naturalism maintains that scientific investigation must adhere to 
+empirical study and independent verification as a process for properly 
+developing and evaluating natural explanations for observable phenomena 
+Methodological naturalism, therefore, rejects supernatural explanations, 
+arguments from authority and biased observational studies Critical rationalism 
+instead holds that unbiased observation is not possible and a demarcation 
+between natural and supernatural explanations is arbitrary; it instead proposes 
+falsifiability as the landmark of empirical theories and falsification as the 
+universal empirical method Critical rationalism argues for the primacy of 
+science, but at the same time against its authority, by emphasizing its inherent 
+fallibility It proposes that science should be content with the rational 
+elimination of errors in its theories, not in seeking for their verification 
+(such as claiming certain or probable proof or disproof; both the proposal and 
+falsification of a theory are only of methodological, conjectural, and tentative 
+character in critical rationalism) Instrumentalism rejects the concept of truth 
+and emphasizes merely the utility of theories as instruments for explaining and 
+predicting phenomena 
+
+
+Mathematics and the scientific method
+ 
+Velocity-distribution data of a gas of rubidium atoms, confirming the discovery 
+of a new phase of matter, the Bose–Einstein condensate Mathematics is essential 
+to many sciences One important function of mathematics in science is the role it 
+plays in the expression of scientific models Observing and collecting 
+measurements, as well as hypothesizing and predicting, often require 
+mathematical models and extensive use of mathematics Mathematical branches most 
+often used in science include calculus and statistics, although virtually every 
+branch of mathematics has applications, even "pure" areas such as number theory 
+and topology Mathematics is fundamental to the understanding of the natural 
+sciences and the social sciences, all of which rely heavily on statistics 
+Statistical methods, comprised of accepted mathematical formulas for summarizing 
+data, allow scientists to assess the level of reliability and the range of 
+variation in experimental results 
+
+Whether mathematics itself is properly classified as science has been a matter 
+of some debate Some thinkers see mathematicians as scientists, regarding 
+physical experiments as inessential or mathematical proofs as equivalent to 
+experiments Others do not see mathematics as a science, since it does not 
+require experimental test of its theories and hypotheses In practice, 
+mathematical theorems and formulas are obtained by logical derivations which 
+presume axiomatic systems, rather than a combination of empirical observation 
+and method of reasoning that has come to be known as scientific method In 
+general, mathematics is classified as formal science, while natural and social 
+sciences are classified as empirical sciences 
+
+
+Goal(s) of science
+
+ 
+
+The underlying goal or purpose of science to society and individuals is to 
+produce useful models of reality To achieve this, one can form hypotheses based 
+on observations that they make in the world By analyzing a number of related 
+hypotheses, scientists can form general theories These theories benefit society 
+or human individuals who make use of them 
+
+In short, science produces models with useful predictions Science attempts to 
+describe what is, but avoids trying to determine what is (which is for practical 
+reasons impossible) Science is a useful tool   it is a growing body of 
+understanding by which one can contend more effectively with surroundings and to 
+better adapt and evolve as a social whole as well as independently 
+
+For a large part of recorded history, science had little bearing on people's 
+everyday lives Scientific knowledge was gathered for its own sake, and it had 
+few practical applications However, with the dawn of the Industrial Revolution 
+in the 18th century, this rapidly changed Today, science has a profound effect 
+on the way humans interact with and act upon nature, largely through its 
+applications in new technology 
+
+Some forms of technology have become so well established that it is easy to 
+forget the great scientific achievements that they represent The refrigerator, 
+for example, owes its existence to a discovery that liquids take in energy when 
+they evaporate, a phenomenon known as latent heat The principle of latent heat 
+was first exploited in a practical way in 1876, and the refrigerator has played 
+a major role in maintaining public health ever since (see Refrigeration) The 
+first automobile, dating from the 1880s, made use of many advances in physics 
+and engineering, including reliable ways of generating high-voltage sparks, 
+while the first computers emerged in the 1940s from simultaneous advances in 
+electronics and mathematics 
+
+ 
+Part of a scientific laboratory at the University of Cologne Other fields of 
+science also play an important role in the things the developed world use or 
+consume every day Research in food technology has created new ways of preserving 
+and flavoring of edible products (see Food processing) Research in industrial 
+chemistry has created a vast range of plastics and other synthetic materials, 
+which have thousands of uses in the home and in industry Synthetic materials are 
+easily formed into complex shapes and can be used to make machine, electrical, 
+and automotive parts, scientific and industrial instruments, decorative objects, 
+containers, and many other items 
+
+Alongside these achievements, science has also brought about technology that 
+helps save human and non-human life The kidney dialysis machine enables many 
+people to survive kidney diseases that would once have proved fatal, and 
+artificial valves allow sufferers of coronary heart disease to return to active 
+living Biochemical research is responsible for the antibiotics and vaccinations 
+that protect living things from infectious diseases, and for a wide range of 
+other drugs used to combat specific health problems As a result, the majority of 
+people in the developed world live longer and healthier lives than ever before 
+
+However, scientific discoveries can also have a negative impact in human affairs 
+Over the last hundred years, some of the technological advances that make life 
+easier or more enjoyable have proved to have unwanted and often unexpected long-
+term effects Industrial and agricultural chemicals pollute the global 
+environment, even in places as remote as Antarctica, and the air in many cities 
+is contaminated by toxic gases from vehicle exhausts (see Pollution) The 
+increasing pace of innovation means that products become rapidly obsolete, 
+adding to a rising tide of waste (see Solid Waste Disposal) Most significantly 
+of all, the burning of fossil fuels such as coal, oil, and natural gas releases 
+into the atmosphere carbon dioxide and other substances known as greenhouse 
+gases These gases have altered the composition of the entire atmosphere, 
+producing global warming and the prospect of major climate change in years to 
+come 
+
+Science has also been used to develop technology that raises complex ethical 
+questions This is particularly true in the fields of biology and medicine (see 
+Medical Ethics) Research involving genetic engineering, cloning, and in vitro 
+fertilization gives scientists the unprecedented power to bring about new life, 
+or to devise new forms of living things At the other extreme, science can also 
+generate technology that is designed to deliberately hurt or to kill The fruits 
+of this research include chemical and biological warfare, and also nuclear 
+weapons, by far the most destructive weapons that the world has ever known 
+
+
+What the goal is not
+Despite popular impressions of science, it is not the goal of science to answer 
+all questions The goal of the sciences is to answer only those that pertain to 
+perceived reality Also, science cannot possibly address nonsensical, or 
+untestable questions, so the choice of which questions to answer becomes 
+important Science does not and can not produce absolute and unquestionable truth 
+Rather, science tests some aspect of the world and attempts to provide a precise, 
+unequivocal framework to explain it This is a goal of science, but it is not an 
+absolutely necessary one Usually the framework for a scientific theory is a 
+mechanical or physical model, but it may only merely be a mathematical model In 
+the latter case, the role of science is lessened from that of explaining 
+phenomena to that of merely predicting future phenomena or observations, given 
+certain input conditions or observations 
+
+The separate roles of explanation and prediction must be differentiated, because 
+science must always provide a clear prediction of future phenomena (by 
+definition) but is not always able to provide or differentiate between possible 
+explanations for the causes of phenomena As an often cited example, there exist 
+a number of models of quantum mechanics which differ in explanation of quantum 
+phenomena and in physical models for them, but are all mathematically equivalent 
+in prediction For this reason, the possible explanations and physical models 
+cannot be differentiated In such cases, natural science does not and cannot 
+provide a preferred explanation or mechanical model for reality, but because it 
+continues to provide a clear predictive mathematical model for reality, it 
+retains its classification as science 
+
+Science is not a source of equivocal value judgments, though it can certainly 
+speak to matters of ethics and public policy by pointing to the likely 
+consequences of actions What one projects from the currently most unequivocal 
+scientific hypothesis onto other realms of interest is not a scientific issue, 
+and the scientific method offers no assistance for those who wish to do so 
+Scientific justification (or refutation) for many things is, nevertheless, often 
+claimed Certain value judgments are intrinsic to science itself For example, 
+scientists value relative truth and knowledge, and the actual progress of 
+science requires cooperation between scientists, and is highly intolerant of 
+dishonesty Cooperation and honesty are thus values which are intrinsic to the 
+actual social practice of the scientific method itself 
+
+
+
+
+
+Scientific literature
+
+An enormous range of scientific literature is published in today's world 
+Scientific journals communicate and document the results of research carried out 
+in universities and various other research institutions Most scientific journals 
+cover a scientific field and publish the research within that field; the 
+research is normally expressed in the form of a scientific paper Science has 
+become so pervasive in modern societies that it is generally considered 
+necessary to communicate the achievements, news, and dreams of scientists to a 
+wider populace Science magazines (e g New Scientist, Scientific American) cater 
+to the needs of a wider readership and provide a non-technical summary of 
+popular areas of research, including notable discoveries and advances in certain 
+fields of research Additionally, science books and magazines on science fiction 
+ignite the interest of many more people A significant fraction of literature in 
+science is also available on the World Wide Web; most reputable journals and 
+news magazines maintain their own websites A growing number of people are being 
+attracted towards the vocation of science popularization and science journalism 
+
+
+Fields of science
+
+Science is broadly subdivided into the categories of natural sciences and the 
+social sciences There are also related disciplines that are grouped into 
+interdisciplinary and applied sciences, such as engineering and health science 
+Within these categories are specialized scientific fields that can include 
+elements of other scientific disciplines but often possess their own terminology 
+and body of expertise 
+
+The status of social sciences as an empirical science has been a matter of 
+debate in the 20th century, see Positivism dispute  Discussion and debate abound 
+in this topic with some fields like the social and behavioural sciences accused 
+by critics of being unscientific In fact, many groups of people from 
+academicians like Nobel Prize physicist Percy W Bridgman, or Dick Richardson, Ph 
+D —Professor of Integrative Biology at the University of Texas at Austin, to 
+politicians like U S Senator Kay Bailey Hutchison and other co-sponsors, oppose 
+giving their support or agreeing with the use of the label "science" in some 
+fields of study and knowledge they consider non-scientific or scientifically 
+irrelevant compared with other fields 
+
